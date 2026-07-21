@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Estrutura de projeto é uma ferramenta para preservar fronteiras e facilitar mudanças.
 
-## Checklist
-
-- [ ] Imports continuam funcionando após a reorganização.
-- [ ] Testes não dependem de detalhes de CLI.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Guia de packaging Python.
@@ -67,4 +61,4 @@ Estrutura de projeto é uma ferramenta para preservar fronteiras e facilitar mud
 - **Duração estimada:** 60 minutos
 - **Etapa do PyTool:** Pacote sustentável
 - **Pré-requisitos:** Capítulo 5
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Organização de pacotes Python, imports relativos e absolutos, __init__.py e a diferença entre pacote e módulo. O capítulo estrutura o PyTool para crescer de forma sustentável.

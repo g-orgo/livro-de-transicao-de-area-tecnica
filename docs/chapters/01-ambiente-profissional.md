@@ -169,15 +169,17 @@ Em projetos reais, versione `pyproject.toml` e `uv.lock`; ignore `.venv`. O lock
 Responda, em suas palavras:
 
 1. Por que instalar bibliotecas globalmente pode causar problemas?
-R: Porquê pode conflitar com depedências nativas do Python assim como com de outros projetos.
+✅ R: Porquê pode conflitar com depedências nativas do Python assim como com de outros projetos.
 2. Em que isso se parece com projetos Node.js?
-R: Utiliza uma estrutura similar de gerenciamento de pacotes e de comandos para geração de blocos de configuração e estruturas padronizadas.
+✅ R: Utiliza uma estrutura similar de gerenciamento de pacotes e de comandos para geração de blocos de configuração e estruturas padronizadas.
 3. Qual é a diferença prática entre `.venv` e `node_modules`?
-R: `node_modules` contem uma cópia de todo o ecossistema das depedencias portanto é extremamente "maior" no sentido de quantidade de pacotes/arquivos e não lida diretamente com a interpretação destes dados e sim com a disponibilidade deles; já no caso do .venv ele atua como um ambiente inteiro dedicado àquelas dependências responsável por orquestrar, rodar e disponibilizar dependências.
+✅ R: `node_modules` contem uma cópia de todo o ecossistema das depedencias portanto é extremamente "maior" no sentido de quantidade de pacotes/arquivos e não lida diretamente com a interpretação destes dados e sim com a disponibilidade deles; já no caso do .venv ele atua como um ambiente inteiro dedicado àquelas dependências responsável por orquestrar, rodar e disponibilizar dependências.
 
 ### Exercício 1.2 — Verificação consciente
 
 Sem consultar a resposta, explique o que cada comando faz: `uv sync`, `uv run ruff check .` e `uv run pytest`.
+
+✅ R: Todos os comandos que começam com `uv` estão relacionados ao ambiente virtual (venv) `uv sync` garante que está com as depedências descritas no arquivo .toml, o `uv run ruff check .` utiliza-o para analisar a formatação e erros como o ES/lint e `uv run pytest` dispara o comando "pytest" que irá validar os testes do projeto.
 
 ## Prática pessoal
 
@@ -190,15 +192,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 - `.venv` isola a instalação local; `pyproject.toml` declara a intenção; `uv.lock` registra a resolução reproduzível.
 - `uv run` é a maneira segura de executar ferramentas no contexto do projeto.
 - Primeiro criamos um ciclo de verificação confiável; depois aumentamos a complexidade.
-
-## Checklist
-
-- [ ] `uv --version` funciona.
-- [ ] O PyTool possui `pyproject.toml`, `uv.lock` e `.venv` local.
-- [ ] `uv sync` termina sem erro.
-- [ ] Ruff passa em modo check e format check.
-- [ ] pytest retorna `1 passed`.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
 
 ## Leitura complementar
 
@@ -213,4 +206,4 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 - **Duração estimada:** 45–60 minutos
 - **Etapa do PyTool:** Fundação do PyTool
 - **Pré-requisitos:** Python e VS Code instalados
-- **Estado:** em andamento
+- **Explicação em poucas linhas:** Um projeto Python profissional exige ambiente virtual isolado, dependências declaradas em pyproject.toml, lockfile reproduzível (uv.lock) e ferramentas de qualidade (Ruff, pytest). O capítulo guia a criação do PyTool com uv e src layout.

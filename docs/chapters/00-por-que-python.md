@@ -50,11 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Python é uma excelente linguagem de integração; o ecossistema e a interoperabilidade explicam grande parte de sua presença em IA.
 
-## Checklist
-
-- [ ] Consigo explicar a relação entre Python e bibliotecas nativas.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - PEP 20 — The Zen of Python.
@@ -66,4 +61,4 @@ Python é uma excelente linguagem de integração; o ecossistema e a interoperab
 - **Duração estimada:** 30 minutos
 - **Etapa do PyTool:** Contexto
 - **Pré-requisitos:** Nenhum
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Python se destaca como linguagem de integração entre sistemas, bibliotecas nativas e ecossistemas de IA. Este capítulo contextualiza o lugar do Python no cenário atual.

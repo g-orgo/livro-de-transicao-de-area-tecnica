@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Embeddings resolvem recuperação aproximada; sua utilidade depende da qualidade do pipeline.
 
-## Checklist
-
-- [ ] Índice pode ser reconstruído.
-- [ ] Resultados incluem origem e trecho.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação do modelo de embeddings escolhido.
@@ -67,4 +61,4 @@ Embeddings resolvem recuperação aproximada; sua utilidade depende da qualidade
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Busca semântica
 - **Pré-requisitos:** Capítulo 16
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Embeddings, similaridade semântica e indexação vetorial. O capítulo adiciona busca semântica ao PyTool.

@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Prompts são interfaces de produto e merecem versionamento e revisão.
 
-## Checklist
-
-- [ ] Prompts não estão embutidos no transporte HTTP.
-- [ ] Template possui teste de renderização.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Guia do provedor sobre prompting.
@@ -67,4 +61,4 @@ Prompts são interfaces de produto e merecem versionamento e revisão.
 - **Duração estimada:** 75 minutos
 - **Etapa do PyTool:** Prompts versionados
 - **Pré-requisitos:** Capítulo 12
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Versionamento de prompts, templates, cadeias de chamadas e boas práticas de engenharia de prompt. O capítulo systematiza o uso de LLMs no PyTool.

@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Memória é modelagem de dados e política de contexto, não uma lista global de mensagens.
 
-## Checklist
-
-- [ ] Sessões são isoladas.
-- [ ] Política de contexto é testada.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Material sobre context windows do provedor escolhido.
@@ -67,4 +61,4 @@ Memória é modelagem de dados e política de contexto, não uma lista global de
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Conversas persistentes
 - **Pré-requisitos:** Capítulo 13
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Memória conversacional, histórico, sumarização e armazenamento persistente de contexto. O capítulo torna as interações do PyTool com LLMs mais coerentes.

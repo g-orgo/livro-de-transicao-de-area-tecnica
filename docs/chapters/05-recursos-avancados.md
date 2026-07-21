@@ -51,12 +51,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Recursos avançados valem quando clarificam gerenciamento de recursos ou contratos repetidos.
 
-## Checklist
-
-- [ ] Plugin possui contrato simples.
-- [ ] Context manager é testado em sucesso e erro.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - PEP 343 — The `with` statement.
@@ -68,4 +62,4 @@ Recursos avançados valem quando clarificam gerenciamento de recursos ou contrat
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Plugins mínimos
 - **Pré-requisitos:** Capítulo 4
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Decoradores, context managers e metaprogramação permitem código expressivo e enxuto. O capítulo prepara a base para plugins e extensibilidade no PyTool.

@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Tipagem é um contrato gradual, mais valioso em interfaces do que em cerimônia local.
 
-## Checklist
-
-- [ ] APIs públicas têm tipos legíveis.
-- [ ] Não há `Any` sem justificativa.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação: `typing`.
@@ -67,4 +61,4 @@ Tipagem é um contrato gradual, mais valioso em interfaces do que em cerimônia 
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Contratos explícitos
 - **Pré-requisitos:** Capítulo 6
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Type hints, tipagem estrutural vs nominal e como tipos funcionam como documentação executável. O capítulo adiciona contratos explícitos ao PyTool.

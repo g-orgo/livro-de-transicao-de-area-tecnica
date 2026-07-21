@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Persistência exige limites explícitos de transação e evolução versionada de esquema.
 
-## Checklist
-
-- [ ] Migração cria o esquema local.
-- [ ] Histórico é persistido e lido.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação de SQLAlchemy e Alembic.
@@ -67,4 +61,4 @@ Persistência exige limites explícitos de transação e evolução versionada d
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** Persistência
 - **Pré-requisitos:** Capítulo 9
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Integração com bancos de dados SQL, migrações e operações CRUD. O capítulo adiciona persistência ao PyTool.

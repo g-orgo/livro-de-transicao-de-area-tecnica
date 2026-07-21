@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Leitura dirigida por perguntas torna projetos grandes acessíveis e aprimora a intuição de design.
 
-## Checklist
-
-- [ ] Fiz uma leitura com pergunta explícita.
-- [ ] Registrei a descoberta e sua aplicação no PyTool.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Repositórios oficiais de FastAPI, Pydantic, Typer, HTTPX e SQLAlchemy.
@@ -67,4 +61,4 @@ Leitura dirigida por perguntas torna projetos grandes acessíveis e aprimora a i
 - **Duração estimada:** contínuo
 - **Etapa do PyTool:** Maturidade
 - **Pré-requisitos:** Capítulo 19
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Leitura orientada de código aberto Python: navegar, entender e contribuir com projetos do ecossistema. O capítulo desenvolve maturidade para trabalhar em bases de código reais.

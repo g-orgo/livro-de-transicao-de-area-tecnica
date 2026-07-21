@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 MCP padroniza interoperabilidade; ainda cabe à aplicação controlar segurança e contratos.
 
-## Checklist
-
-- [ ] Servidor e cliente têm testes locais.
-- [ ] Ferramenta é limitada a leitura.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Especificação MCP atual.
@@ -67,4 +61,4 @@ MCP padroniza interoperabilidade; ainda cabe à aplicação controlar segurança
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** Ferramentas interoperáveis
 - **Pré-requisitos:** Capítulo 15
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Model Context Protocol (MCP) — integração padronizada entre LLMs e ferramentas externas. O capítulo torna o PyTool interoperável com o ecossistema MCP.

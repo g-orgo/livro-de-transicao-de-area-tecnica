@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Dataclasses e composição costumam ser o ponto de partida mais claro para objetos em Python.
 
-## Checklist
-
-- [ ] Configuração possui defaults testados.
-- [ ] Nenhum default mutável é compartilhado.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação: `dataclasses` e `typing.Protocol`.
@@ -67,4 +61,4 @@ Dataclasses e composição costumam ser o ponto de partida mais claro para objet
 - **Duração estimada:** 75 minutos
 - **Etapa do PyTool:** Configuração
 - **Pré-requisitos:** Capítulo 3
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Tudo em Python é objeto. O capítulo explora classes, herança, dunder methods e o sistema de tipos dinâmico, contrastando com prototypes e classes do JavaScript.

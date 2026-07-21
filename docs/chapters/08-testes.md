@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Pytest favorece testes pequenos e composição de contexto por fixtures.
 
-## Checklist
-
-- [ ] Caminhos de sucesso e erro estão cobertos.
-- [ ] Nenhum teste depende de ordem global.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação do pytest.
@@ -67,4 +61,4 @@ Pytest favorece testes pequenos e composição de contexto por fixtures.
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Confiança para evoluir
 - **Pré-requisitos:** Capítulo 7
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** pytest fixtures, parametrização, monkeypatch e boas práticas de teste. O capítulo constrói confiança para evoluir o PyTool com segurança.

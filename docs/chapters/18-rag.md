@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 RAG melhora fundamentação quando a recuperação, o contexto e a avaliação são tratados como componentes distintos.
 
-## Checklist
-
-- [ ] Respostas mostram fontes.
-- [ ] Há conjunto mínimo de avaliação.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Material sobre avaliação de RAG.
@@ -67,4 +61,4 @@ RAG melhora fundamentação quando a recuperação, o contexto e a avaliação s
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** Respostas fundamentadas
 - **Pré-requisitos:** Capítulo 17
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Retrieval-Augmented Generation (RAG) — combinação de busca vetorial com LLMs para respostas fundamentadas. O capítulo completa o ciclo de IA do PyTool.

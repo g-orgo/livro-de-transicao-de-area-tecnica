@@ -50,13 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Entrega é reprodutibilidade, documentação e feedback operacional — não apenas código funcional.
 
-## Checklist
-
-- [ ] Caminho de instalação foi validado.
-- [ ] Testes e lint passam em uma única sequência.
-- [ ] Demonstração usa uma configuração segura.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação de Docker e CI escolhidos.
@@ -68,4 +61,4 @@ Entrega é reprodutibilidade, documentação e feedback operacional — não ape
 - **Duração estimada:** 180 minutos
 - **Etapa do PyTool:** Projeto final
 - **Pré-requisitos:** Capítulo 18
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Empacotamento, CI/CD, deploy e distribuição do PyTool como produto. O capítulo prepara o projeto para entrega real.

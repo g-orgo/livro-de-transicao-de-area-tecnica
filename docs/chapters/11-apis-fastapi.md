@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 FastAPI torna contratos explícitos, mas arquitetura continua responsabilidade do projeto.
 
-## Checklist
-
-- [ ] OpenAPI descreve os endpoints.
-- [ ] CLI e API reutilizam os mesmos casos de uso.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação do FastAPI.
@@ -67,4 +61,4 @@ FastAPI torna contratos explícitos, mas arquitetura continua responsabilidade d
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** API HTTP
 - **Pré-requisitos:** Capítulo 10
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Criação de APIs HTTP com FastAPI, rotas, validação com Pydantic e documentação automática. O capítulo expõe o PyTool como serviço web.

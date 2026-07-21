@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Python oferece abstrações de iteração que removem índices, mutação e caminhos manuais do código cotidiano.
 
-## Checklist
-
-- [ ] `files PATH` funciona com `Path`.
-- [ ] Resultados têm ordem definida.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação: `pathlib` e `itertools`.
@@ -67,4 +61,4 @@ Python oferece abstrações de iteração que removem índices, mutação e cami
 - **Duração estimada:** 75 minutos
 - **Etapa do PyTool:** Leitura de arquivos
 - **Pré-requisitos:** Capítulo 2
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Python oferece abstrações de iteração (compreensões, geradores, pathlib) que eliminam índices manuais e mutação. O capítulo ensina código pythonico para manipulação de arquivos e coleções.

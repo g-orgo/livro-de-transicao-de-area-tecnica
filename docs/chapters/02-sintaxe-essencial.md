@@ -52,12 +52,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Funções, módulos e valores simples resolvem a maior parte do primeiro incremento do PyTool.
 
-## Checklist
-
-- [ ] CLI imprime a versão.
-- [ ] Testes cobrem a lógica de apresentação.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Tutorial oficial: módulos e funções.
@@ -69,4 +63,4 @@ Funções, módulos e valores simples resolvem a maior parte do primeiro increme
 - **Duração estimada:** 60 minutos
 - **Etapa do PyTool:** Primeiro comando
 - **Pré-requisitos:** Capítulo 1
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Funções, módulos e tipos básicos são suficientes para construir o primeiro comando CLI do PyTool. O capítulo apresenta a sintaxe essencial do Python partindo dos equivalentes em JavaScript.

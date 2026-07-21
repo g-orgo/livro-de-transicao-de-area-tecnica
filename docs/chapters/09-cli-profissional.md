@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Typer e Rich melhoram ergonomia, mas a lógica deve continuar independente do terminal.
 
-## Checklist
-
-- [ ] `pytool --help` explica os comandos.
-- [ ] A CLI tem testes de comportamento.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação de Typer e Rich.
@@ -67,4 +61,4 @@ Typer e Rich melhoram ergonomia, mas a lógica deve continuar independente do te
 - **Duração estimada:** 90 minutos
 - **Etapa do PyTool:** Interface de terminal
 - **Pré-requisitos:** Capítulo 8
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Construção de CLI profissional com tratamento de erros, cores e formato de saída. O capítulo transforma o PyTool em uma interface de terminal completa.

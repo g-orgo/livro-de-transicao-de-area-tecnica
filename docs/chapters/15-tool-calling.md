@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Tool calling é integração controlada, não autonomia sem limites.
 
-## Checklist
-
-- [ ] Ferramentas têm esquema e testes.
-- [ ] Chamadas são limitadas e registradas.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação de function calling do provedor.
@@ -67,4 +61,4 @@ Tool calling é integração controlada, não autonomia sem limites.
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** Ações controladas
 - **Pré-requisitos:** Capítulo 14
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Tool calling com LLMs, definição de ferramentas, execução controlada e parsing de respostas estruturadas. O capítulo permite que o PyTool aja sobre o ambiente.

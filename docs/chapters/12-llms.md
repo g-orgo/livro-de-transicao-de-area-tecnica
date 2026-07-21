@@ -50,12 +50,6 @@ Não é necessário enviar respostas para revisão nem registrá-las aqui. Volte
 
 Um LLM é uma integração externa; contratos, timeouts e testes determinísticos vêm antes de “agência”.
 
-## Checklist
-
-- [ ] Modelo é selecionado por configuração.
-- [ ] Cliente tem timeout e teste com fake.
- [ ] Reservei um momento para refletir ou praticar os exercícios.
-
 ## Leitura complementar
 
 - Documentação do provedor escolhido.
@@ -67,4 +61,4 @@ Um LLM é uma integração externa; contratos, timeouts e testes determinístico
 - **Duração estimada:** 120 minutos
 - **Etapa do PyTool:** Cliente de modelo
 - **Pré-requisitos:** Capítulo 11
-- **Estado:** roteiro
+- **Explicação em poucas linhas:** Integração com LLMs via API, gerenciamento de chaves, tokens e streaming. O capítulo adiciona um cliente de modelo de linguagem ao PyTool.
