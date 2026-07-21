@@ -169,8 +169,11 @@ Em projetos reais, versione `pyproject.toml` e `uv.lock`; ignore `.venv`. O lock
 Responda, em suas palavras:
 
 1. Por que instalar bibliotecas globalmente pode causar problemas?
+R: Porquê pode conflitar com depedências nativas do Python assim como com de outros projetos.
 2. Em que isso se parece com projetos Node.js?
+R: Utiliza uma estrutura similar de gerenciamento de pacotes e de comandos para geração de blocos de configuração e estruturas padronizadas.
 3. Qual é a diferença prática entre `.venv` e `node_modules`?
+R: `node_modules` contem uma cópia de todo o ecossistema das depedencias portanto é extremamente "maior" no sentido de quantidade de pacotes/arquivos e não lida diretamente com a interpretação destes dados e sim com a disponibilidade deles; já no caso do .venv ele atua como um ambiente inteiro dedicado àquelas dependências responsável por orquestrar, rodar e disponibilizar dependências.
 
 ### Exercício 1.2 — Verificação consciente
 
